@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 63d0c3bfd0008e047b359e7009971550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6840519369796404410
+    second: Manrique_Medrano_Angel_Tileset_smaill_0
+  - first:
+      213: 3492093307390627454
+    second: Manrique_Medrano_Angel_Tileset_smaill_1
+  - first:
+      213: 8108590937377620318
+    second: Manrique_Medrano_Angel_Tileset_smaill_2
+  - first:
+      213: 8910551488652836174
+    second: Manrique_Medrano_Angel_Tileset_smaill_3
+  - first:
+      213: 6357437448252205899
+    second: Manrique_Medrano_Angel_Tileset_smaill_4
+  - first:
+      213: 5309763834764202013
+    second: Manrique_Medrano_Angel_Tileset_smaill_5
+  - first:
+      213: -3200795943347935590
+    second: Manrique_Medrano_Angel_Tileset_smaill_6
+  - first:
+      213: -4535319099085214851
+    second: Manrique_Medrano_Angel_Tileset_smaill_7
+  - first:
+      213: 7345780393572555055
+    second: Manrique_Medrano_Angel_Tileset_smaill_8
+  - first:
+      213: 3136584690318615936
+    second: Manrique_Medrano_Angel_Tileset_smaill_9
+  - first:
+      213: -4408749542219483193
+    second: Manrique_Medrano_Angel_Tileset_smaill_10
+  - first:
+      213: -7884276382321821108
+    second: Manrique_Medrano_Angel_Tileset_smaill_11
+  - first:
+      213: -921272475543466229
+    second: Manrique_Medrano_Angel_Tileset_smaill_12
+  - first:
+      213: -431123523702431700
+    second: Manrique_Medrano_Angel_Tileset_smaill_13
+  - first:
+      213: 5131117728387634993
+    second: Manrique_Medrano_Angel_Tileset_smaill_14
+  - first:
+      213: 2080750887935516912
+    second: Manrique_Medrano_Angel_Tileset_smaill_15
+  - first:
+      213: 1667298414059328969
+    second: Manrique_Medrano_Angel_Tileset_smaill_16
+  - first:
+      213: 305611753535686695
+    second: Manrique_Medrano_Angel_Tileset_smaill_17
+  - first:
+      213: 2590996793237944697
+    second: Manrique_Medrano_Angel_Tileset_smaill_18
+  - first:
+      213: 3909381353934900669
+    second: Manrique_Medrano_Angel_Tileset_smaill_19
+  - first:
+      213: 7283491088120914601
+    second: Manrique_Medrano_Angel_Tileset_smaill_20
+  - first:
+      213: 7411077921010820942
+    second: Manrique_Medrano_Angel_Tileset_smaill_21
+  - first:
+      213: -2474763813091572600
+    second: Manrique_Medrano_Angel_Tileset_smaill_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3b1430e79111a0800000000000000
+      internalID: -6840519369796404410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e89857c58667030800000000000000
+      internalID: 3492093307390627454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5148531f70878070800000000000000
+      internalID: 8108590937377620318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 281
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dfaf96e53a8ab70800000000000000
+      internalID: 8910551488652836174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 281
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ba6d01da72a3850800000000000000
+      internalID: 6357437448252205899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 307
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10165c431210b940800000000000000
+      internalID: 5309763834764202013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962c3e4c0d7493d0800000000000000
+      internalID: -3200795943347935590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 266
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2bfbfe4f4f01c0800000000000000
+      internalID: -4535319099085214851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 232
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dbec295471f560800000000000000
+      internalID: 7345780393572555055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ae525823678b20800000000000000
+      internalID: 3136584690318615936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 232
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7775066a9f0d2c0800000000000000
+      internalID: -4408749542219483193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 266
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ab4b8276c659290800000000000000
+      internalID: -7884276382321821108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 232
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f03e9809bf633f0800000000000000
+      internalID: -921272475543466229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 247
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e66b7077540af0800000000000000
+      internalID: -431123523702431700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 247
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137114d5364653740800000000000000
+      internalID: 5131117728387634993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_15
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a97588ef40ec10800000000000000
+      internalID: 2080750887935516912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51498e21f632710800000000000000
+      internalID: 1667298414059328969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728cda84540cd3400800000000000000
+      internalID: 305611753535686695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979bf131bd115f320800000000000000
+      internalID: 2590996793237944697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 164
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd43dce0a9e04630800000000000000
+      internalID: 3909381353934900669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ab281e88241560800000000000000
+      internalID: 7283491088120914601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4727948a1079d660800000000000000
+      internalID: 7411077921010820942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manrique_Medrano_Angel_Tileset_smaill_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8848fa18c6fd7add0800000000000000
+      internalID: -2474763813091572600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Manrique_Medrano_Angel_Tileset_smaill_0: -6840519369796404410
+      Manrique_Medrano_Angel_Tileset_smaill_1: 3492093307390627454
+      Manrique_Medrano_Angel_Tileset_smaill_10: -4408749542219483193
+      Manrique_Medrano_Angel_Tileset_smaill_11: -7884276382321821108
+      Manrique_Medrano_Angel_Tileset_smaill_12: -921272475543466229
+      Manrique_Medrano_Angel_Tileset_smaill_13: -431123523702431700
+      Manrique_Medrano_Angel_Tileset_smaill_14: 5131117728387634993
+      Manrique_Medrano_Angel_Tileset_smaill_15: 2080750887935516912
+      Manrique_Medrano_Angel_Tileset_smaill_16: 1667298414059328969
+      Manrique_Medrano_Angel_Tileset_smaill_17: 305611753535686695
+      Manrique_Medrano_Angel_Tileset_smaill_18: 2590996793237944697
+      Manrique_Medrano_Angel_Tileset_smaill_19: 3909381353934900669
+      Manrique_Medrano_Angel_Tileset_smaill_2: 8108590937377620318
+      Manrique_Medrano_Angel_Tileset_smaill_20: 7283491088120914601
+      Manrique_Medrano_Angel_Tileset_smaill_21: 7411077921010820942
+      Manrique_Medrano_Angel_Tileset_smaill_22: -2474763813091572600
+      Manrique_Medrano_Angel_Tileset_smaill_3: 8910551488652836174
+      Manrique_Medrano_Angel_Tileset_smaill_4: 6357437448252205899
+      Manrique_Medrano_Angel_Tileset_smaill_5: 5309763834764202013
+      Manrique_Medrano_Angel_Tileset_smaill_6: -3200795943347935590
+      Manrique_Medrano_Angel_Tileset_smaill_7: -4535319099085214851
+      Manrique_Medrano_Angel_Tileset_smaill_8: 7345780393572555055
+      Manrique_Medrano_Angel_Tileset_smaill_9: 3136584690318615936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
