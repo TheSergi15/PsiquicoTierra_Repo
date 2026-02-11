@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: ecb07dbddd4c77145861fe0fa8c8277b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2554498786275892986
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_0"
+  - first:
+      213: 6057014470548556567
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_1"
+  - first:
+      213: 621325229330468098
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_2"
+  - first:
+      213: -4707949839637368407
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_3"
+  - first:
+      213: 4733357765256435912
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_4"
+  - first:
+      213: 6771264798167129808
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_5"
+  - first:
+      213: 977692968981830450
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_6"
+  - first:
+      213: 4122508932290739797
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_7"
+  - first:
+      213: -5767496655057885606
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_8"
+  - first:
+      213: -7066740551776492904
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_9"
+  - first:
+      213: 4915296627719080834
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_10"
+  - first:
+      213: 4703026020674535983
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_11"
+  - first:
+      213: 7385773728446798809
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_12"
+  - first:
+      213: -7065977938848101719
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_13"
+  - first:
+      213: -6671465451246182704
+    second: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_0"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 259
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601ebd063e89c8cd0800000000000000
+      internalID: -2554498786275892986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_1"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 262
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b827cc196de0450800000000000000
+      internalID: 6057014470548556567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_2"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 218
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d0b3011046f9800800000000000000
+      internalID: 621325229330468098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_3"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 185
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1be0c80900aaeb0800000000000000
+      internalID: -4707949839637368407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_4"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 218
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c852f02fc340b140800000000000000
+      internalID: 4733357765256435912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_5"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 185
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dedbde457d58fd50800000000000000
+      internalID: 6771264798167129808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_6"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 218
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b1f834396719d00800000000000000
+      internalID: 977692968981830450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_7"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 185
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e709c2808163930800000000000000
+      internalID: 4122508932290739797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_8"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 161
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a566508895cb5ffa0800000000000000
+      internalID: -5767496655057885606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_9"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892a38bc8e4eded90800000000000000
+      internalID: -7066740551776492904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_10"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 161
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b0fd49d34a63440800000000000000
+      internalID: 4915296627719080834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_11"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 161
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2289b38f31844140800000000000000
+      internalID: 4703026020674535983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbdb73131a8f7660800000000000000
+      internalID: 7385773728446798809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_13"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4634708a90fd90800000000000000
+      internalID: -7065977938848101719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_14"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1e2fd4813a63a0800000000000000
+      internalID: -6671465451246182704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_0": -2554498786275892986
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_1": 6057014470548556567
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_10": 4915296627719080834
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_11": 4703026020674535983
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_12": 7385773728446798809
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_13": -7065977938848101719
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_14": -6671465451246182704
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_2": 621325229330468098
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_3": -4707949839637368407
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_4": 4733357765256435912
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_5": 6771264798167129808
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_6": 977692968981830450
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_7": 4122508932290739797
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_8": -5767496655057885606
+      "Valenzuela_Mart\xEDnez_Sergio_Tileset_smail_l_9": -7066740551776492904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
