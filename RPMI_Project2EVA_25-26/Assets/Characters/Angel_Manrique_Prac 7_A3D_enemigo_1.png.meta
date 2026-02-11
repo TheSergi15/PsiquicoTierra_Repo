@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: 795272af0eccc374990fadc7ffe41da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2955661848877532913
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_0
+  - first:
+      213: -8399845052473524325
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_1
+  - first:
+      213: 6689719916155673130
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_2
+  - first:
+      213: -9075074600264780060
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_3
+  - first:
+      213: -5869593391722000379
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_4
+  - first:
+      213: 7625761369398150133
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_5
+  - first:
+      213: 8277808710509913410
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_6
+  - first:
+      213: -1181494778783967017
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_7
+  - first:
+      213: -2881984773479023066
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_8
+  - first:
+      213: 6364490724101078659
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_9
+  - first:
+      213: -1519175148311186534
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_10
+  - first:
+      213: 5665703671875676682
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_11
+  - first:
+      213: -517087326978436860
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_12
+  - first:
+      213: 958828505738374433
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_13
+  - first:
+      213: 5602739356371125958
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_14
+  - first:
+      213: -6459622186377192817
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_15
+  - first:
+      213: 7062372537438300816
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_16
+  - first:
+      213: -5854538775027841050
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_17
+  - first:
+      213: 398772883918247704
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_18
+  - first:
+      213: -3685890855535531014
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_19
+  - first:
+      213: -6216886853223930362
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_20
+  - first:
+      213: -6132698473874143011
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_21
+  - first:
+      213: 3015593292195328258
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_22
+  - first:
+      213: 9083686721216066743
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_23
+  - first:
+      213: -2250023311574145127
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_24
+  - first:
+      213: -3983557890300748100
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_25
+  - first:
+      213: 7305698546933816989
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_26
+  - first:
+      213: 8239572017793918353
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_27
+  - first:
+      213: -7119574739405270751
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_28
+  - first:
+      213: -4678538860292153337
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_29
+  - first:
+      213: 7396255870615174334
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_30
+  - first:
+      213: 4149600990850925825
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_31
+  - first:
+      213: -3833482051538028999
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_32
+  - first:
+      213: -2944224758142296654
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_33
+  - first:
+      213: -1126163294912705874
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_34
+  - first:
+      213: 8681473283488597710
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_35
+  - first:
+      213: -2945261337505355781
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_36
+  - first:
+      213: -5756414037105186098
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_37
+  - first:
+      213: 7712025911857297390
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_38
+  - first:
+      213: -8112194550931177242
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_39
+  - first:
+      213: -6917950627755120555
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_40
+  - first:
+      213: -3565755638318823542
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_41
+  - first:
+      213: 1552639703759223265
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_42
+  - first:
+      213: 968184480558951399
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_43
+  - first:
+      213: 925879453378142843
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_44
+  - first:
+      213: 5768142287367733292
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_45
+  - first:
+      213: -3279512935599585944
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_46
+  - first:
+      213: -8464325830624261552
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_47
+  - first:
+      213: -9207712762877077438
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_48
+  - first:
+      213: 8006748544274819502
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_49
+  - first:
+      213: 4347978882711210286
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_50
+  - first:
+      213: 4437956779343228971
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_51
+  - first:
+      213: 591187322910371971
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_52
+  - first:
+      213: 3019570807700824038
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_53
+  - first:
+      213: -469613736965546710
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_54
+  - first:
+      213: -6272717436408678897
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_55
+  - first:
+      213: 4241263983556289050
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_56
+  - first:
+      213: -3845796321935168758
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_57
+  - first:
+      213: 3497200544068254521
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_58
+  - first:
+      213: 7148394934422780589
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_59
+  - first:
+      213: 5029934728472790230
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_60
+  - first:
+      213: 1183212279536197036
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_61
+  - first:
+      213: -2518685713402440475
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_62
+  - first:
+      213: -2623229127219279485
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_63
+  - first:
+      213: 4321523733806979927
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_64
+  - first:
+      213: -1437094987580579198
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_65
+  - first:
+      213: -6647499166007187791
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_66
+  - first:
+      213: 3506630493319674105
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_67
+  - first:
+      213: -6998199945449892212
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_68
+  - first:
+      213: -1678694157800928621
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_69
+  - first:
+      213: 7955876054583752466
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_70
+  - first:
+      213: 606303197860349419
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_71
+  - first:
+      213: 8939241001470633581
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_72
+  - first:
+      213: 3202422649055506599
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_73
+  - first:
+      213: -4991961266580421466
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_74
+  - first:
+      213: 7676611139684944802
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_75
+  - first:
+      213: 1814822777445995970
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_76
+  - first:
+      213: 6684077592050134926
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_77
+  - first:
+      213: 1754468427050778480
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_78
+  - first:
+      213: -117143185017731745
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_79
+  - first:
+      213: 3473616660461053179
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_80
+  - first:
+      213: -940297555860459109
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_81
+  - first:
+      213: 4083916128247712353
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_82
+  - first:
+      213: 1813561860807951088
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_83
+  - first:
+      213: 2633430720039626499
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_84
+  - first:
+      213: 4673938846067550990
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_85
+  - first:
+      213: 4811033863030751548
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_86
+  - first:
+      213: 6501807777956119630
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_87
+  - first:
+      213: 8622719091404433131
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_88
+  - first:
+      213: -6641311054588203258
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_89
+  - first:
+      213: -899509649810782557
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_90
+  - first:
+      213: 4968471357435887375
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_91
+  - first:
+      213: -7448229557071205327
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_92
+  - first:
+      213: 5197817201144045253
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_93
+  - first:
+      213: -158433420982753674
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_94
+  - first:
+      213: -1026578704769951401
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_95
+  - first:
+      213: 5577723296772734099
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_96
+  - first:
+      213: 8950871775347829912
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_97
+  - first:
+      213: -5009590843185527222
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_98
+  - first:
+      213: 48596225091444426
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_99
+  - first:
+      213: -6205204929192859131
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_100
+  - first:
+      213: 4253005881521451956
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_101
+  - first:
+      213: 4834988563501603968
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_102
+  - first:
+      213: 1419049482660995623
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_103
+  - first:
+      213: -5126842471474953760
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_104
+  - first:
+      213: -4218258595428586297
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_105
+  - first:
+      213: 3808728291788933135
+    second: Angel_Manrique_Prac 7_A3D_enemigo_1_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09fa7d45316bf6d0800000000000000
+      internalID: -2955661848877532913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 280
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f3ef6dd61cd6b80800000000000000
+      internalID: -8399845052473524325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9051f1d8a6dc50800000000000000
+      internalID: 6689719916155673130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63c0d9bbbde0280800000000000000
+      internalID: -9075074600264780060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001e6e98e30b8ea0800000000000000
+      internalID: -5869593391722000379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38fdcff8524d960800000000000000
+      internalID: 7625761369398150133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e39c1a2fa0e270800000000000000
+      internalID: 8277808710509913410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 279
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85a9e22cc7a9fe0800000000000000
+      internalID: -1181494778783967017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb2b03e122108d0800000000000000
+      internalID: -2881984773479023066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e3052d796335850800000000000000
+      internalID: 6364490724101078659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 280
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937f45604ecaeae0800000000000000
+      internalID: -1519175148311186534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa6cca87f90ae40800000000000000
+      internalID: 5665703671875676682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011895d0dfe2d8f0800000000000000
+      internalID: -517087326978436860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 279
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ded0522717e4d00800000000000000
+      internalID: 958828505738374433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 284
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60a9192cde0cd40800000000000000
+      internalID: 5602739356371125958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a51c598dfca56a0800000000000000
+      internalID: -6459622186377192817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aeb7d9766920260800000000000000
+      internalID: 7062372537438300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e707b6b00080cea0800000000000000
+      internalID: -5854538775027841050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817510c33d9b88500800000000000000
+      internalID: 398772883918247704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba1faabc519dcc0800000000000000
+      internalID: -3685890855535531014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606aac0785e29b9a0800000000000000
+      internalID: -6216886853223930362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c62efa3744eaa0800000000000000
+      internalID: -6132698473874143011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017a583f1a89d920800000000000000
+      internalID: 3015593292195328258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4340d02fcbf0e70800000000000000
+      internalID: 9083686721216066743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997664128bf46c0e0800000000000000
+      internalID: -2250023311574145127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5b6e543f87b8c0800000000000000
+      internalID: -3983557890300748100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed3160f1e036560800000000000000
+      internalID: 7305698546933816989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 219
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ead55817d85270800000000000000
+      internalID: 8239572017793918353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12197e1ee70323d90800000000000000
+      internalID: -7119574739405270751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 219
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ec6cc1bd721fb0800000000000000
+      internalID: -4678538860292153337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 219
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc3aebf687c4a660800000000000000
+      internalID: 7396255870615174334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105474b9d18569930800000000000000
+      internalID: 4149600990850925825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 219
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367d31826cbccac0800000000000000
+      internalID: -3833482051538028999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd94008e230427d0800000000000000
+      internalID: -2944224758142296654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 153
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa05af23701f50f0800000000000000
+      internalID: -1126163294912705874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c16574f9ca7870800000000000000
+      internalID: 8681473283488597710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf72d4f0b645027d0800000000000000
+      internalID: -2945261337505355781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_37
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 154
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae54a9eeb1d10b0800000000000000
+      internalID: -5756414037105186098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_38
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7bcdee4be960b60800000000000000
+      internalID: 7712025911857297390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e043e24902bb6f80800000000000000
+      internalID: -8112194550931177242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55827f29e808eff90800000000000000
+      internalID: -6917950627755120555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_41
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87092e9324e38ec0800000000000000
+      internalID: -3565755638318823542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e97cb695951c8510800000000000000
+      internalID: 1552639703759223265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 218
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb23c8c7aeaf6d00800000000000000
+      internalID: 968184480558951399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_44
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72ef63157269dc00800000000000000
+      internalID: 925879453378142843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20867479de8c0050800000000000000
+      internalID: 5768142287367733292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 218
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865c9455c54dc72d0800000000000000
+      internalID: -3279512935599585944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a4a72c08ca88a80800000000000000
+      internalID: -8464325830624261552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24891e6d602a73080800000000000000
+      internalID: -9207712762877077438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 218
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea96063216fad1f60800000000000000
+      internalID: 8006748544274819502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_50
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c6ead1cf175c30800000000000000
+      internalID: 4347978882711210286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203a417d2ac69d30800000000000000
+      internalID: 4437956779343228971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 218
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38079c9ecb1543800800000000000000
+      internalID: 591187322910371971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_53
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9527b6aba7e920800000000000000
+      internalID: 3019570807700824038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_54
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d568a5bc89b79f0800000000000000
+      internalID: -469613736965546710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_55
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 218
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f063672d9b4d2f8a0800000000000000
+      internalID: -6272717436408678897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_56
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e7823f1ffbda30800000000000000
+      internalID: 4241263983556289050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bec800f9cf0aac0800000000000000
+      internalID: -3845796321935168758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_58
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 218
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bbd79ad5d888030800000000000000
+      internalID: 3497200544068254521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_59
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab87ca153343360800000000000000
+      internalID: 7148394934422780589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_60
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4850e5cfaedc540800000000000000
+      internalID: 5029934728472790230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_61
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 218
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad92af9c4d9b6010800000000000000
+      internalID: 1183212279536197036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_62
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 217
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4dbcf20b4db0dd0800000000000000
+      internalID: -2518685713402440475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_63
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 217
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38903abd10b689bd0800000000000000
+      internalID: -2623229127219279485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_64
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 217
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b1cf180f229fb30800000000000000
+      internalID: 4321523733806979927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_65
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 217
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e3cc09b96e0ce0800000000000000
+      internalID: -1437094987580579198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_66
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 217
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6af6d7ab65fb3a0800000000000000
+      internalID: -6647499166007187791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_67
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 217
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83fd0dadd0aa030800000000000000
+      internalID: 3506630493319674105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_68
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 217
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861d484a3661ee90800000000000000
+      internalID: -6998199945449892212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_69
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 217
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a80cdbe8414b8e0800000000000000
+      internalID: -1678694157800928621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_70
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 217
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217308e9e13f86e60800000000000000
+      internalID: 7955876054583752466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_71
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 217
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be546aecb850a6800800000000000000
+      internalID: 606303197860349419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_72
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 217
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a34624509e0c70800000000000000
+      internalID: 8939241001470633581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_73
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 217
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07e91ae6a417c20800000000000000
+      internalID: 3202422649055506599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_74
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 217
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a407f43dadf8bab0800000000000000
+      internalID: -4991961266580421466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_75
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 217
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4abbb82dc88a60800000000000000
+      internalID: 7676611139684944802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_76
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 217
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d4f363bb8f2910800000000000000
+      internalID: 1814822777445995970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8feb4df72d92cc50800000000000000
+      internalID: 6684077592050134926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 153
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ffff32dbf195810800000000000000
+      internalID: 1754468427050778480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 153
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f550925d4e2df5ef0800000000000000
+      internalID: -117143185017731745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 152
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e8acd2f3c43030800000000000000
+      internalID: 3473616660461053179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 152
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91f4c7da5463f2f0800000000000000
+      internalID: -940297555860459109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 152
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a81b4c41cfca830800000000000000
+      internalID: 4083916128247712353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f287ab57e01b2910800000000000000
+      internalID: 1813561860807951088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30720909943db8420800000000000000
+      internalID: 2633430720039626499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b61cded9a2dd040800000000000000
+      internalID: 4673938846067550990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c258fec934c240800000000000000
+      internalID: 4811033863030751548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4442fad9bf0b3a50800000000000000
+      internalID: 6501807777956119630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e329145d0aa770800000000000000
+      internalID: 8622719091404433131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f256478c255d3a0800000000000000
+      internalID: -6641311054588203258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60ef24dbc4483f0800000000000000
+      internalID: -899509649810782557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_91
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3ba0206e83f440800000000000000
+      internalID: 4968471357435887375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca4352ea292a890800000000000000
+      internalID: -7448229557071205327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1b99843b522840800000000000000
+      internalID: 5197817201144045253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e5cd94a12dcdf0800000000000000
+      internalID: -158433420982753674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d4386b1cd0c1f0800000000000000
+      internalID: -1026578704769951401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 87
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3f8f49cd086d40800000000000000
+      internalID: 5577723296772734099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 92
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6da7b472e73c70800000000000000
+      internalID: 8950871775347829912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4680e98bab5a7ab0800000000000000
+      internalID: -5009590843185527222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace100e5206aca000800000000000000
+      internalID: 48596225091444426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae4f45efea2e9a0800000000000000
+      internalID: -6205204929192859131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bbbbd056b50b30800000000000000
+      internalID: 4253005881521451956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd69c4b74591340800000000000000
+      internalID: 4834988563501603968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_103
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e5bc6cf971b310800000000000000
+      internalID: 1419049482660995623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 29
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e189547febc9d8b0800000000000000
+      internalID: -5126842471474953760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccadb0282cb575c0800000000000000
+      internalID: -4218258595428586297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Manrique_Prac 7_A3D_enemigo_1_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084f0ea3325bd430800000000000000
+      internalID: 3808728291788933135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Angel_Manrique_Prac 7_A3D_enemigo_1_0: -2955661848877532913
+      Angel_Manrique_Prac 7_A3D_enemigo_1_1: -8399845052473524325
+      Angel_Manrique_Prac 7_A3D_enemigo_1_10: -1519175148311186534
+      Angel_Manrique_Prac 7_A3D_enemigo_1_100: -6205204929192859131
+      Angel_Manrique_Prac 7_A3D_enemigo_1_101: 4253005881521451956
+      Angel_Manrique_Prac 7_A3D_enemigo_1_102: 4834988563501603968
+      Angel_Manrique_Prac 7_A3D_enemigo_1_103: 1419049482660995623
+      Angel_Manrique_Prac 7_A3D_enemigo_1_104: -5126842471474953760
+      Angel_Manrique_Prac 7_A3D_enemigo_1_105: -4218258595428586297
+      Angel_Manrique_Prac 7_A3D_enemigo_1_106: 3808728291788933135
+      Angel_Manrique_Prac 7_A3D_enemigo_1_11: 5665703671875676682
+      Angel_Manrique_Prac 7_A3D_enemigo_1_12: -517087326978436860
+      Angel_Manrique_Prac 7_A3D_enemigo_1_13: 958828505738374433
+      Angel_Manrique_Prac 7_A3D_enemigo_1_14: 5602739356371125958
+      Angel_Manrique_Prac 7_A3D_enemigo_1_15: -6459622186377192817
+      Angel_Manrique_Prac 7_A3D_enemigo_1_16: 7062372537438300816
+      Angel_Manrique_Prac 7_A3D_enemigo_1_17: -5854538775027841050
+      Angel_Manrique_Prac 7_A3D_enemigo_1_18: 398772883918247704
+      Angel_Manrique_Prac 7_A3D_enemigo_1_19: -3685890855535531014
+      Angel_Manrique_Prac 7_A3D_enemigo_1_2: 6689719916155673130
+      Angel_Manrique_Prac 7_A3D_enemigo_1_20: -6216886853223930362
+      Angel_Manrique_Prac 7_A3D_enemigo_1_21: -6132698473874143011
+      Angel_Manrique_Prac 7_A3D_enemigo_1_22: 3015593292195328258
+      Angel_Manrique_Prac 7_A3D_enemigo_1_23: 9083686721216066743
+      Angel_Manrique_Prac 7_A3D_enemigo_1_24: -2250023311574145127
+      Angel_Manrique_Prac 7_A3D_enemigo_1_25: -3983557890300748100
+      Angel_Manrique_Prac 7_A3D_enemigo_1_26: 7305698546933816989
+      Angel_Manrique_Prac 7_A3D_enemigo_1_27: 8239572017793918353
+      Angel_Manrique_Prac 7_A3D_enemigo_1_28: -7119574739405270751
+      Angel_Manrique_Prac 7_A3D_enemigo_1_29: -4678538860292153337
+      Angel_Manrique_Prac 7_A3D_enemigo_1_3: -9075074600264780060
+      Angel_Manrique_Prac 7_A3D_enemigo_1_30: 7396255870615174334
+      Angel_Manrique_Prac 7_A3D_enemigo_1_31: 4149600990850925825
+      Angel_Manrique_Prac 7_A3D_enemigo_1_32: -3833482051538028999
+      Angel_Manrique_Prac 7_A3D_enemigo_1_33: -2944224758142296654
+      Angel_Manrique_Prac 7_A3D_enemigo_1_34: -1126163294912705874
+      Angel_Manrique_Prac 7_A3D_enemigo_1_35: 8681473283488597710
+      Angel_Manrique_Prac 7_A3D_enemigo_1_36: -2945261337505355781
+      Angel_Manrique_Prac 7_A3D_enemigo_1_37: -5756414037105186098
+      Angel_Manrique_Prac 7_A3D_enemigo_1_38: 7712025911857297390
+      Angel_Manrique_Prac 7_A3D_enemigo_1_39: -8112194550931177242
+      Angel_Manrique_Prac 7_A3D_enemigo_1_4: -5869593391722000379
+      Angel_Manrique_Prac 7_A3D_enemigo_1_40: -6917950627755120555
+      Angel_Manrique_Prac 7_A3D_enemigo_1_41: -3565755638318823542
+      Angel_Manrique_Prac 7_A3D_enemigo_1_42: 1552639703759223265
+      Angel_Manrique_Prac 7_A3D_enemigo_1_43: 968184480558951399
+      Angel_Manrique_Prac 7_A3D_enemigo_1_44: 925879453378142843
+      Angel_Manrique_Prac 7_A3D_enemigo_1_45: 5768142287367733292
+      Angel_Manrique_Prac 7_A3D_enemigo_1_46: -3279512935599585944
+      Angel_Manrique_Prac 7_A3D_enemigo_1_47: -8464325830624261552
+      Angel_Manrique_Prac 7_A3D_enemigo_1_48: -9207712762877077438
+      Angel_Manrique_Prac 7_A3D_enemigo_1_49: 8006748544274819502
+      Angel_Manrique_Prac 7_A3D_enemigo_1_5: 7625761369398150133
+      Angel_Manrique_Prac 7_A3D_enemigo_1_50: 4347978882711210286
+      Angel_Manrique_Prac 7_A3D_enemigo_1_51: 4437956779343228971
+      Angel_Manrique_Prac 7_A3D_enemigo_1_52: 591187322910371971
+      Angel_Manrique_Prac 7_A3D_enemigo_1_53: 3019570807700824038
+      Angel_Manrique_Prac 7_A3D_enemigo_1_54: -469613736965546710
+      Angel_Manrique_Prac 7_A3D_enemigo_1_55: -6272717436408678897
+      Angel_Manrique_Prac 7_A3D_enemigo_1_56: 4241263983556289050
+      Angel_Manrique_Prac 7_A3D_enemigo_1_57: -3845796321935168758
+      Angel_Manrique_Prac 7_A3D_enemigo_1_58: 3497200544068254521
+      Angel_Manrique_Prac 7_A3D_enemigo_1_59: 7148394934422780589
+      Angel_Manrique_Prac 7_A3D_enemigo_1_6: 8277808710509913410
+      Angel_Manrique_Prac 7_A3D_enemigo_1_60: 5029934728472790230
+      Angel_Manrique_Prac 7_A3D_enemigo_1_61: 1183212279536197036
+      Angel_Manrique_Prac 7_A3D_enemigo_1_62: -2518685713402440475
+      Angel_Manrique_Prac 7_A3D_enemigo_1_63: -2623229127219279485
+      Angel_Manrique_Prac 7_A3D_enemigo_1_64: 4321523733806979927
+      Angel_Manrique_Prac 7_A3D_enemigo_1_65: -1437094987580579198
+      Angel_Manrique_Prac 7_A3D_enemigo_1_66: -6647499166007187791
+      Angel_Manrique_Prac 7_A3D_enemigo_1_67: 3506630493319674105
+      Angel_Manrique_Prac 7_A3D_enemigo_1_68: -6998199945449892212
+      Angel_Manrique_Prac 7_A3D_enemigo_1_69: -1678694157800928621
+      Angel_Manrique_Prac 7_A3D_enemigo_1_7: -1181494778783967017
+      Angel_Manrique_Prac 7_A3D_enemigo_1_70: 7955876054583752466
+      Angel_Manrique_Prac 7_A3D_enemigo_1_71: 606303197860349419
+      Angel_Manrique_Prac 7_A3D_enemigo_1_72: 8939241001470633581
+      Angel_Manrique_Prac 7_A3D_enemigo_1_73: 3202422649055506599
+      Angel_Manrique_Prac 7_A3D_enemigo_1_74: -4991961266580421466
+      Angel_Manrique_Prac 7_A3D_enemigo_1_75: 7676611139684944802
+      Angel_Manrique_Prac 7_A3D_enemigo_1_76: 1814822777445995970
+      Angel_Manrique_Prac 7_A3D_enemigo_1_77: 6684077592050134926
+      Angel_Manrique_Prac 7_A3D_enemigo_1_78: 1754468427050778480
+      Angel_Manrique_Prac 7_A3D_enemigo_1_79: -117143185017731745
+      Angel_Manrique_Prac 7_A3D_enemigo_1_8: -2881984773479023066
+      Angel_Manrique_Prac 7_A3D_enemigo_1_80: 3473616660461053179
+      Angel_Manrique_Prac 7_A3D_enemigo_1_81: -940297555860459109
+      Angel_Manrique_Prac 7_A3D_enemigo_1_82: 4083916128247712353
+      Angel_Manrique_Prac 7_A3D_enemigo_1_83: 1813561860807951088
+      Angel_Manrique_Prac 7_A3D_enemigo_1_84: 2633430720039626499
+      Angel_Manrique_Prac 7_A3D_enemigo_1_85: 4673938846067550990
+      Angel_Manrique_Prac 7_A3D_enemigo_1_86: 4811033863030751548
+      Angel_Manrique_Prac 7_A3D_enemigo_1_87: 6501807777956119630
+      Angel_Manrique_Prac 7_A3D_enemigo_1_88: 8622719091404433131
+      Angel_Manrique_Prac 7_A3D_enemigo_1_89: -6641311054588203258
+      Angel_Manrique_Prac 7_A3D_enemigo_1_9: 6364490724101078659
+      Angel_Manrique_Prac 7_A3D_enemigo_1_90: -899509649810782557
+      Angel_Manrique_Prac 7_A3D_enemigo_1_91: 4968471357435887375
+      Angel_Manrique_Prac 7_A3D_enemigo_1_92: -7448229557071205327
+      Angel_Manrique_Prac 7_A3D_enemigo_1_93: 5197817201144045253
+      Angel_Manrique_Prac 7_A3D_enemigo_1_94: -158433420982753674
+      Angel_Manrique_Prac 7_A3D_enemigo_1_95: -1026578704769951401
+      Angel_Manrique_Prac 7_A3D_enemigo_1_96: 5577723296772734099
+      Angel_Manrique_Prac 7_A3D_enemigo_1_97: 8950871775347829912
+      Angel_Manrique_Prac 7_A3D_enemigo_1_98: -5009590843185527222
+      Angel_Manrique_Prac 7_A3D_enemigo_1_99: 48596225091444426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
