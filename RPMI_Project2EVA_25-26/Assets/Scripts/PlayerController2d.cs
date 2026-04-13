@@ -48,7 +48,7 @@ public class PlayerController2d : MonoBehaviour
         // Lógica de la detección del suelo 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         //Lógica de ejecución de animaciones
-        AnimationManagement();
+        AnimationManagement(GetHealthInteractor());
         //Ejecución de la lógica del flip
         if (moveInput.x > 0 && !isFacingRight) Flip();
         if (moveInput.x < 0 && isFacingRight) Flip();
@@ -88,12 +88,20 @@ public class PlayerController2d : MonoBehaviour
         yield return null;
     }
 
-    void AnimationManagement()
+    private HealthInteractor GetHealthInteractor() => HealthInteractor;
+
+    void AnimationManagement(HealthInteractor healthInteractor)
     {
         //Gestión del cambio de animaciones: idle-jump-walk
         anim.SetBool("Jumping", !isGrounded);
         if(moveInput.x != 0) anim.SetBool("Running", true);
         else anim.SetBool("Running",false);
+ 
+        if
+        {
+            anim.SetTrigger("Hit");
+
+        }
 
     }
 
